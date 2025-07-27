@@ -1,0 +1,5 @@
+train: ./datasets/cars/images/train
+val: ./datasets/cars/images/val
+
+names:
+    0: car
